@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "436EE5F7-98E7-40E1-AB05-39F70D84F060"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "069BCDCC-570B-4211-A3F6-B32006C26DDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padel/TournamentDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "069BCDCC-570B-4211-A3F6-B32006C26DDC - ad863f25c8bdc3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Padel.AddPointsView, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in Padel.PointBoard.body.getter : some"
+                  moduleName = "Padel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommybakkane/Desktop/App/IOS/Padel/Padel/TournamentDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "069BCDCC-570B-4211-A3F6-B32006C26DDC - 24d217188a8e41a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Padel.Player&gt;, Padel.Player, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Padel.AddPointsView, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in Padel.PointBoard.body.getter : some"
+                  moduleName = "Padel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommybakkane/Desktop/App/IOS/Padel/Padel/TournamentDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E416396E-2716-4415-91B3-FFCAEBFC1BBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padel/TournamentDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "PointBoard"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "E416396E-2716-4415-91B3-FFCAEBFC1BBC - 4539c71300847ff4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Padel.PointBoard.init(tournament: Padel.Tournament) -&gt; Padel.PointBoard"
+                  moduleName = "Padel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommybakkane/Desktop/App/IOS/Padel/Padel/TournamentDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "E416396E-2716-4415-91B3-FFCAEBFC1BBC - a9f4db897a79cc87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Padel.PointBoard.isShowingAlert : Swift.Bool"
+                  moduleName = "Padel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommybakkane/Desktop/App/IOS/Padel/Padel/TournamentDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92D451D7-E088-4C72-8208-9A6CB1AA61FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Padel/DetailView/TournamentDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "TournamentDetailView_Previews"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
